@@ -29,4 +29,6 @@
 	 2、开始学习Angular-Mobile-UI （上周在学习AngularJS的Controller和路由部分）
 
 汇报人：代蒙
-回报内容：
+回报内容：1、学习JavaScript的lambda表达式，匿名函数和闭包
+		2、学习MobileAngularUI
+		3、学习kpi项目的代码
